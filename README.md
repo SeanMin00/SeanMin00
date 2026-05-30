@@ -8,7 +8,7 @@ Data Analytics · Finance Analytics · AI Products
 
 ## About Me
 
-- Business & Technology Management student at NYU Tandon
+- Business & Technology Management student at NYU Tandon | Finance concentration | Computer science & Math Minors
 - Focused on data analytics, finance analytics / FP&A, data engineering-adjacent analytics, and AI-driven business products
 - Interested in building practical tools that connect data, business decisions, and product execution
 
