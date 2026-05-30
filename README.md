@@ -1,6 +1,6 @@
 # Hi, I'm Sean
 
-I'm a student at NYU Tandon interested in data analytics, finance analytics, operation and products especiallay powered by AI.
+I'm a student at NYU Tandon interested in data analytics, finance analytics, operation and products especially powered by AI.
 
 I enjoy building projects that make business and financial data easier to understand, analyze, and use.
 
