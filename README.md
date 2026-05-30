@@ -25,17 +25,6 @@ Data Analytics · Finance Analytics · AI Products
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## Featured Projects
-
-| Category | Project | Focus |
-| --- | --- | --- |
-| Data Analytics | `Global Market Intelligence Platform` | Market data exploration, sentiment analysis, and decision-ready views |
-| Data Engineering | `Revenue / Market Data Pipeline Projects` | Structured data flows, SQL modeling, and analytics-ready datasets |
-| Finance Analytics / FP&A | `FP&A / Unit Economics Models` | Forecasting, scenario analysis, and financial decision support |
-| Product & Strategy | `Daily Commuter Transit App` | Product thinking, user flow design, and business-facing execution |
-| AI / ML | `AI Credit Advisor Hackathon` | AI-assisted finance product concepts and practical user workflows |
-| Quant / Finance | `Optimal Order Placement Backtest` | Market microstructure, execution cost modeling, and strategy comparison |
-
 ## Experience Highlights
 
 - Built student, hackathon, and project-based work across analytics, finance, AI, and product strategy
