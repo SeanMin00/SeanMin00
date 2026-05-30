@@ -1,6 +1,8 @@
 # Hi, I'm Sean
 
-I build projects that turn messy business and financial data into structured pipelines, dashboards, models, and decision-ready insights.
+I'm a student at NYU Tandon interested in data analytics, finance analytics, and AI-driven products.
+
+I enjoy building projects that make business and financial data easier to understand, analyze, and use.
 
 Data Analytics · Finance Analytics · AI Products
 
